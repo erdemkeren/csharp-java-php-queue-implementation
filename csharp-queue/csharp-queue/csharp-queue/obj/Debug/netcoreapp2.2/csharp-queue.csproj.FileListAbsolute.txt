@@ -1,0 +1,11 @@
+/Users/hilmierdemkeren/dev/code/educode/hackerrank/cs-java-php-queue-implementation/csharp-queue/csharp-queue/csharp-queue/bin/Debug/netcoreapp2.2/csharp-queue.deps.json
+/Users/hilmierdemkeren/dev/code/educode/hackerrank/cs-java-php-queue-implementation/csharp-queue/csharp-queue/csharp-queue/bin/Debug/netcoreapp2.2/csharp-queue.runtimeconfig.json
+/Users/hilmierdemkeren/dev/code/educode/hackerrank/cs-java-php-queue-implementation/csharp-queue/csharp-queue/csharp-queue/bin/Debug/netcoreapp2.2/csharp-queue.runtimeconfig.dev.json
+/Users/hilmierdemkeren/dev/code/educode/hackerrank/cs-java-php-queue-implementation/csharp-queue/csharp-queue/csharp-queue/bin/Debug/netcoreapp2.2/csharp-queue.dll
+/Users/hilmierdemkeren/dev/code/educode/hackerrank/cs-java-php-queue-implementation/csharp-queue/csharp-queue/csharp-queue/bin/Debug/netcoreapp2.2/csharp-queue.pdb
+/Users/hilmierdemkeren/dev/code/educode/hackerrank/cs-java-php-queue-implementation/csharp-queue/csharp-queue/csharp-queue/obj/Debug/netcoreapp2.2/csharp-queue.csprojAssemblyReference.cache
+/Users/hilmierdemkeren/dev/code/educode/hackerrank/cs-java-php-queue-implementation/csharp-queue/csharp-queue/csharp-queue/obj/Debug/netcoreapp2.2/csharp-queue.csproj.CoreCompileInputs.cache
+/Users/hilmierdemkeren/dev/code/educode/hackerrank/cs-java-php-queue-implementation/csharp-queue/csharp-queue/csharp-queue/obj/Debug/netcoreapp2.2/csharp-queue.AssemblyInfoInputs.cache
+/Users/hilmierdemkeren/dev/code/educode/hackerrank/cs-java-php-queue-implementation/csharp-queue/csharp-queue/csharp-queue/obj/Debug/netcoreapp2.2/csharp-queue.AssemblyInfo.cs
+/Users/hilmierdemkeren/dev/code/educode/hackerrank/cs-java-php-queue-implementation/csharp-queue/csharp-queue/csharp-queue/obj/Debug/netcoreapp2.2/csharp-queue.dll
+/Users/hilmierdemkeren/dev/code/educode/hackerrank/cs-java-php-queue-implementation/csharp-queue/csharp-queue/csharp-queue/obj/Debug/netcoreapp2.2/csharp-queue.pdb
